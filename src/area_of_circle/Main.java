@@ -1,4 +1,4 @@
-package areaOfCircle;
+package area_of_circle;
 
 import java.util.Scanner;
 

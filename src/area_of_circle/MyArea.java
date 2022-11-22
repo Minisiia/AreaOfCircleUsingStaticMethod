@@ -1,4 +1,4 @@
-package areaOfCircle;
+package area_of_circle;
 
 public class MyArea {
     private static final double PI = 3.14;
